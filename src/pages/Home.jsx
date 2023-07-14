@@ -1,4 +1,5 @@
 import desktopImage from "../assets/desktop_image.jpg";
+import Article from "../container/Article";
 
 const Home = () => {
   return (
@@ -10,7 +11,9 @@ const Home = () => {
           className=" object-cover object-center"
         />
       </div>
-      <div className=" bg-green-400 row-span-2"></div>
+      <div className=" bg-green-400 row-span-2">
+        <Article />
+      </div>
       <div className=" bg-yellow-400"></div>
       <div className=" bg-blue-400"></div>
       <div className=" bg-cyan-400"></div>
