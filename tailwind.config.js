@@ -15,6 +15,9 @@ export default {
           "very-dark-blue": "hsl(240, 100%, 5%)",
         },
       },
+      fontFamily: {
+        inter: ["Inter", "sans-serif"],
+      },
     },
   },
   plugins: [],
