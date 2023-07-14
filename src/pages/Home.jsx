@@ -11,7 +11,7 @@ const Home = () => {
           className=" object-cover object-center"
         />
       </div>
-      <div className=" bg-green-400 row-span-2">
+      <div className=" bg-neutral-very-dark-blue row-span-2">
         <Article />
       </div>
       <div className=" bg-yellow-400"></div>
